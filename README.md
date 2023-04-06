@@ -6,7 +6,7 @@ iPad向けの時間割を表示するウィジェットです。[Scriptable](htt
 ## 使い方
 
 1. [Scriptable](https://scriptable.app/)をインストールする
-2. [ここ](https://github.com/a-ori-a/timeTable/releases/download/v1.0/timeTable.1.scriptable)からtimeTable.scriptableというファイルをダウンロード.
+2. [timeTable.scriptable](https://github.com/a-ori-a/timeTable/releases/download/v1.0.1/timeTable.scriptable)というファイルをダウンロード
 3. ダウンロードしたファイルを開くと下のような画面になっているので、右上の共有シートのボタンを押す
 4. 表示されているアプリのなかからScriptableを探して開く
 5. Add to My Scripts　というボタンを押す

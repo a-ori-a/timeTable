@@ -15,8 +15,10 @@ iPad向けの時間割を表示するウィジェットです。[Scriptable](htt
 
 ## カスタマイズ
 
-- 時間割の変更
-[アプリを開き](scriptable://run/timeTable)、でてきたダイアログで「時間割の登録」を押す
+### 時間割の変更
 
-- カラーテーマの変更
-[アプリを開き](scriptable://run/timeTable)、でてきたダイアログで変更したい設定を選ぶ
+[Scriptableを開き](scriptable://run/timeTable)、でてきたダイアログで「時間割の登録」を押す
+
+### カラーテーマの変更
+
+[Scriptableを開き](scriptable://run/timeTable)、でてきたダイアログで変更したい設定を選ぶ

@@ -17,8 +17,8 @@ iPad向けの時間割を表示するウィジェットです。[Scriptable](htt
 
 ### 時間割の変更
 
-[Scriptableを開き](scriptable://run/timeTable)、でてきたダイアログで「時間割の登録」を押す
+[Scriptableを開いて](scriptable://run/timeTable)timeTableという名前のスクリプトを実行し、でてきたダイアログで「時間割の登録」を押す
 
 ### カラーテーマの変更
 
-[Scriptableを開き](scriptable://run/timeTable)、でてきたダイアログで変更したい設定を選ぶ
+[Scriptableを開き](scriptable://run/timeTable)、timeTableという名前のスクリプトを実行し、でてきたダイアログで変更したい設定を選ぶ
